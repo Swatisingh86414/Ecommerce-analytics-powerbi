@@ -1,2 +1,10 @@
 # Ecommerce-analytics-powerbi
-A Power BI dashboard for analyzing e-commerce sales performance, including total sales, profit, quantity sold, and trends by customer, state, category, and payment mode. Features dynamic filters for detailed insights.
+This repository contains a Power BI dashboard showcasing sales performance for an e-commerce business.
+
+## Key Features
+- **Metrics**: Total sales amount, profit, quantity, and average sales.
+- **Insights**:
+  - Sales by customer and state.
+  - Quantity by category and payment mode.
+  - Monthly profit trends and sub-category breakdown.
+- **Filters**: Includes quarter and state for dynamic analysis.
