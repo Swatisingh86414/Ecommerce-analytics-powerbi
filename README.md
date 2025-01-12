@@ -21,4 +21,17 @@ This repository contains a Power BI dashboard showcasing sales performance for a
 -Monthly profit trends?
 -Most profitable sub-categories?
 -Average sales value?
-## How to Use
+## Dashboard interaction <a href= "https://github.com/Swatisingh86414/Ecommerce-analytics-powerbi/blob/main/Screenshot%202025-01-12%20155726.png">View dashboard</a></h3>
+## process
+Import Data: Load your dataset into Power BI using Get Data.
+Clean Data: Use Power Query Editor to clean and transform your data.
+Create Visuals: Drag fields to the canvas and choose visual types (charts, tables).
+Add Interactivity: Use slicers and filters for user-friendly navigation.
+Publish: Save the file and click Publish to share the dashboard.
+## Dashboard image 
+
+
+
+
+
+
