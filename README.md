@@ -8,3 +8,5 @@ This repository contains a Power BI dashboard showcasing sales performance for a
   - Quantity by category and payment mode.
   - Monthly profit trends and sub-category breakdown.
 - **Filters**: Includes quarter and state for dynamic analysis.
+## Datset used
+<a href="https://github.com/Swatisingh86414/Ecommerce-analytics-powerbi/edit/main/README.md"> Datset</a></h3>
