@@ -30,6 +30,7 @@ Add Interactivity: Use slicers and filters for user-friendly navigation.
 Publish: Save the file and click Publish to share the dashboard.
 ## Dashboard image 
 
+![Screenshot 2024-12-31 170230](https://github.com/user-attachments/assets/a7f5678d-b356-4643-91c2-b69db8616627)
 
 
 
